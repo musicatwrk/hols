@@ -5,10 +5,10 @@
   - page for CSV downloads
 - add a print button?
 - list of holidays
-- sqlite new version?
 
 # DONE
 
+- sqlite new version
 - cache static files for longer than not at all
   - set up cache busting in express
 - PEI, let's call it "PEI" on the screen at least
